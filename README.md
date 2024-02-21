@@ -7,14 +7,10 @@ This is an algorithm-based project written in C Programming Language, by Chiamak
 |Sorting algorithm   |Time complexity |
 | -------- | ------- |
 | Bubble sort | function that sorts an array of integers in ascending order using the Bubble Sort algorithm.   |
-
 | Insertion sort | C function that sorts a listint_t doubly-linked list of integers in ascending order using the Insertion Sort algorithm.
 Prints the list after each swap.   |
-
 |  Quick sort  | C function that sorts an array of integers in ascending order using the Quick Sort algorithm.  |
-
 | Shell sort | C function that sorts an array of integers in ascending order using the Shell sort algorithm. |
-
 | Merge sort | C function that sorts an array of integers in ascending order using the Merge Sort algorithm. |
 
 **Data Structures**
